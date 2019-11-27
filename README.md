@@ -4,7 +4,7 @@ Project to create an online fantasy fototball applcation
 
 Languages: MySQL, Angular, Node.js, Express.Js
 
-#  Project Team
+## Project Team
 
 FrontEnd: Abdulaziz
 
