@@ -1,4 +1,4 @@
-#Fantasy Football (Soccer) Web Project
+# Fantasy Football (Soccer) Web Project
 
 Project to create an online fantasy fototball applcation
 
